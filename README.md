@@ -2,7 +2,7 @@
 playing with minver
 
 ```
-dotnet tool install --global minver-cli --version 2.3.1
+dotnet tool install restore
 minver
 ```
 
